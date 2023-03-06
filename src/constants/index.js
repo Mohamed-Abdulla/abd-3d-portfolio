@@ -19,7 +19,6 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
   threejs,
   Social,
   WebMall,
